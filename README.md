@@ -1,4 +1,4 @@
-## Router
+## My Simple App using Cloudflare
 
 Selects the logic to respond to requests based on the `request` method and URL. Can be used with REST APIs or apps that require basic routing logic.
 
